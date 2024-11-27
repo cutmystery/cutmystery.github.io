@@ -766,18 +766,12 @@ a {
 }
 @media (min-width: 992px) {
   .cid-uvn7zbq7Xb .item-wrapper .item-content {
-    padding: 2rem 2rem 0;
-  }
-  .cid-uvn7zbq7Xb .item-wrapper .item-footer {
-    padding: 0 2rem 2rem;
+    padding: 2rem;
   }
 }
 @media (max-width: 991px) {
   .cid-uvn7zbq7Xb .item-wrapper .item-content {
-    padding: 1rem 1rem 0;
-  }
-  .cid-uvn7zbq7Xb .item-wrapper .item-footer {
-    padding: 0 1rem 1rem;
+    padding: 1rem;
   }
 }
 .cid-uvn7zbq7Xb .mbr-section-btn {
